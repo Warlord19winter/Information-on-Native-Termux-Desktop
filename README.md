@@ -192,3 +192,9 @@ pkg install x11-repo -y
 Install DOSBox and a VNC server to view the graphical interface:
 
 pkg install dosbox -y
+
+----------------------------------------------------------------------------------------------------------------------
+
+click on this link to get back to the hub
+
+https://github.com/Warlord19winter/The-Hub-For-Termux-Native-Desktop-Evironment
